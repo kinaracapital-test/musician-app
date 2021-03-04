@@ -1,4 +1,4 @@
-{ "engines" : { "node" : ">=0.12" } }
+//{ "engines" : { "node" : ">=0.12" } }
 {
   "name": "nodejs-restapi-poc",
   "version": "1.0.0",
