@@ -4,6 +4,7 @@ phases:
   install:
     commands:
       - echo Executing Install Phase
+      - mvn install
     finally:
       - echo Executing Install Finally
   pre_build:
